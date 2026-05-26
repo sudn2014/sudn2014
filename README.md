@@ -21,9 +21,7 @@ Passionate about Python, Django and sharing knowledge at international tech conf
 |
 [Instagram](https://www.instagram.com/saeedamini/)
 |
-[Twitter](https://twitter.com/dennybiasiolli)
-|
-[Mastodon](https://mastodon.uno/@dennybiasiolli)
+[X](https://x.com/saeedamini20)
 |
 [YouTube](https://www.youtube.com/@Aiandroboticsmagazine)
 
